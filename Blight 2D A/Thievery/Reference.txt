@@ -1,0 +1,5 @@
+03-06: Idles
+12-17: Walk
+21-24: Attack
+30-33: Hurt
+39-44: Death
